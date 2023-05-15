@@ -1,0 +1,12 @@
+Tubes:
+1. Whether they are loaded or not
+2. What torpedo is in the tube
+3. Name
+
+
+Torpedo:
+1. Name
+2. Damage (internal)
+3. Best Ship Type to Attack
+4. Description
+5. Speed
