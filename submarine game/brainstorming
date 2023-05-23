@@ -1,0 +1,11 @@
+Each room will the following:
+- their state (normal, lightly damaged, damaged, heavily damaged, flooded)
+
+
+The submarine should have the following rooms:
+- torpedo room
+- sonar room
+- engine room
+- navigation room
+- Supplies room
+- captain room
